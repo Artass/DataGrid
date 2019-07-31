@@ -1,0 +1,15 @@
+D:\Proekts\Таблица\bin\Debug\Таблица.exe.config
+D:\Proekts\Таблица\bin\Debug\Таблица.exe
+D:\Proekts\Таблица\bin\Debug\Таблица.pdb
+D:\Proekts\Таблица\obj\Debug\Таблица.csprojAssemblyReference.cache
+D:\Proekts\Таблица\obj\Debug\MainWindow.g.cs
+D:\Proekts\Таблица\obj\Debug\App.g.cs
+D:\Proekts\Таблица\obj\Debug\Таблица_MarkupCompile.cache
+D:\Proekts\Таблица\obj\Debug\Таблица_MarkupCompile.lref
+D:\Proekts\Таблица\obj\Debug\MainWindow.baml
+D:\Proekts\Таблица\obj\Debug\Таблица.g.resources
+D:\Proekts\Таблица\obj\Debug\Таблица.Properties.Resources.resources
+D:\Proekts\Таблица\obj\Debug\Таблица.csproj.GenerateResource.cache
+D:\Proekts\Таблица\obj\Debug\Таблица.csproj.CoreCompileInputs.cache
+D:\Proekts\Таблица\obj\Debug\Таблица.exe
+D:\Proekts\Таблица\obj\Debug\Таблица.pdb

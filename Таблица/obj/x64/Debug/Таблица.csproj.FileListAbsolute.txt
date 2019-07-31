@@ -1,0 +1,16 @@
+D:\Proekts\Таблица\bin\x64\Debug\Таблица.exe.config
+D:\Proekts\Таблица\bin\x64\Debug\Таблица.exe
+D:\Proekts\Таблица\bin\x64\Debug\Таблица.pdb
+D:\Proekts\Таблица\obj\x64\Debug\MainWindow.g.cs
+D:\Proekts\Таблица\obj\x64\Debug\App.g.cs
+D:\Proekts\Таблица\obj\x64\Debug\Таблица_MarkupCompile.cache
+D:\Proekts\Таблица\obj\x64\Debug\Таблица_MarkupCompile.lref
+D:\Proekts\Таблица\obj\x64\Debug\MainWindow.baml
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.g.resources
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.Properties.Resources.resources
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.csproj.GenerateResource.cache
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.csproj.CoreCompileInputs.cache
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.exe
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.pdb
+D:\Proekts\Таблица\obj\x64\Debug\Таблица.csprojAssemblyReference.cache
+D:\Proekts\Таблица\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
